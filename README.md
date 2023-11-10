@@ -69,8 +69,15 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/Pi1998/ruby-enumerable.git
 ```
+### Usage
 
--
+To run the project, execute the following command:
+
+
+```
+  ruby myList.rb
+```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

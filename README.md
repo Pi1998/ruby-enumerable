@@ -1,7 +1,7 @@
 # ruby-enumerable
 ## Getting Started
 
-This repository includes files for linting and a `module.rb` which holds the morse code logic.
+This repository includes files for listing and a `module.rb`.
 
 <a name="readme-top"></a>
 
@@ -9,8 +9,10 @@ This repository includes files for linting and a `module.rb` which holds the mor
 
 # 📗 Table of Contents
 
+- [ruby-enumerable](#ruby-enumerable)
+  - [Getting Started](#getting-started)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 decode-morse-code ](#-decode-morse-code-)
+- [📖 ruby-enumerable ](#-ruby-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -26,9 +28,9 @@ This repository includes files for linting and a `module.rb` which holds the mor
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 decode-morse-code <a name="about-project"></a>
+# 📖 ruby-enumerable <a name="about-project"></a>
 
-**** is a database project built using `ruby` to decode a message written in morse code to words.
+**ruby-enumerable** is a Ruby project built using `ruby` to implement enumerability.
 
 ## 🛠 Built With <a name="built-with"></a>
 

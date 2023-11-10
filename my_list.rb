@@ -1,7 +1,7 @@
-# frozen_string_literal: true
+# This file Creates MyList Class in the MyEnumerable and implement an each method.
 
 require_relative 'my_enumerable'
-# This file Creates MyList Class in the MyEnumerable and implement an each method.
+
 class MyList
   include MyEnumerable
 

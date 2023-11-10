@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # This module provides custom enumerable methods.
 module MyEnumerable
   def all?

@@ -5,8 +5,6 @@ require_relative 'my_enumerable'
 class MyList
   include MyEnumerable
 
-  include MyEnumerable
-
   def initialize(*list)
     @list = list
   end
